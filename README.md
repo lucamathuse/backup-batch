@@ -1,2 +1,2 @@
 # backup-shell
-backup tool in shell
+Customizable backup tool
